@@ -9,14 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/inter": "^5.0.18",
+    "@fontsource/poppins": "^5.0.14",
+    "@metismenu/react": "^0.0.3",
+    "antd": "^5.16.5",
+    "autoprefixer": "^10.4.19",
+    "axios": "^1.6.8",
+    "next": "14.2.3",
+    "nprogress": "^0.2.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-icons": "^5.1.0",
+    "react-loader-spinner": "^6.1.6",
+    "react-paginate": "^8.2.0",
+    "react-toastify": "^10.0.5",
+    "sass": "^1.75.0",
+    "sonner": "^1.4.41",
+    "sweetalert2": "^11.10.8"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.3"
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.1"
   }
 }
